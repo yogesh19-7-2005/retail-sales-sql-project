@@ -188,4 +188,3 @@ GROUP BY shift
 ```
 
 
-Thank you for your support, and I look forward to connecting with you!
